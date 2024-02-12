@@ -1,0 +1,64 @@
+#philosophy h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#philosophy h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#philosophy p {
+  line-height: 1.7;
+  margin: 20px auto;
+}
+
+#philosophy #main_container {
+  max-width: 1000px;
+  width: 80%;
+  margin: 20px auto;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+#philosophy #top_image {
+  height: 270px;
+  background-image: url("/images/philosophy.jpg");
+  background-position: 0% 0%;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#philosophy #top_image #top_message {
+  width: 80%;
+  max-width: 500px;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+#philosophy #top_image #top_message p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+#philosophy .titles {
+  padding: 1rem 3rem;
+  -webkit-transform: skew(-15deg);
+  transform: skew(-15deg);
+  color: #fff;
+  background-image: -webkit-gradient(linear, right top, left top, from(#9be15d), to(#00e3ae));
+  background-image: -webkit-linear-gradient(right, #9be15d 0%, #00e3ae 100%);
+  background-image: linear-gradient(to left, #9be15d 0%, #00e3ae 100%);
+}
+
+#philosophy .line_deco {
+  background: linear-gradient(transparent 60%, #e8ff66 60%);
+  font-weight: bold;
+  font-size: 18px;
+}

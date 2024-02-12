@@ -1,0 +1,49 @@
+#profile-edit #container {
+  max-width: 1000px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+#profile-edit #root_form>div {
+  margin: 15px auto;
+}
+
+#profile-edit #root_form textarea {
+  width: 100%;
+}
+
+#profile-edit .text_field_class {
+  width: 90%;
+}
+
+#profile-edit .movie_area {
+  margin: 20px 2%;
+}
+
+#profile-edit .caution {
+  color: red;
+}
+
+#profile-edit .input_content {
+  background-color: lightyellow;
+}
+
+#profile-edit .button_container button {
+  margin-right: 10px;
+}
+
+#profile-edit h1 {
+  font-size: x-large;
+}
+
+#profile-edit h2 {
+  font-size: large;
+}
+
+#profile-edit .input-field {
+  margin: 10px 0 30px 0;
+}
+
+#profile-edit #root_form {
+  margin: 20px 0 40px 0;
+}

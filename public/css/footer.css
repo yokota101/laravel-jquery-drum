@@ -1,0 +1,16 @@
+#foot_container {
+  color: white;
+  text-align: center;
+  background-color: #222;
+}
+
+#foot_container h2 {
+  font-size: 30px;
+  padding: 5px 0px 0px 0px;
+  margin: 0;
+}
+
+#foot_container p {
+  padding: 0px 0px 5px 0px;
+  margin: 0;
+}

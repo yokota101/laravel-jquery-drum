@@ -1,0 +1,51 @@
+#watch_container {
+  max-width: 1000px;
+  width: 90%;
+  margin: 15px auto;
+}
+
+#watch_container h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#watch_container pre {
+  font-size: large;
+  font-family: "メイリオ", Meiryo, YuGothic, "Yu Gothic", "ヒラギノ角ゴシック", "Hiragino Sans", "ＭＳ ゴシック" !important;
+  overflow: hidden;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+#watch_container iframe {
+  max-width: 640px;
+  max-height: 360px;
+  width: 100%;
+  height: 56vw;
+}
+
+#watch_container .movie_area {
+  margin: 5px 0 5px 0;
+}
+
+#good-button {
+  margin-right: 15px;
+}
+
+#watch_container .article h3 {
+  margin: 15px 0 5px 0;
+}
+
+#watch_container .article h3 {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+#watch_container .article h6 {
+  font-weight: bold;
+}
+
+#watch_container .content {
+  line-height: 1.5;
+  font-size: 18px;
+}

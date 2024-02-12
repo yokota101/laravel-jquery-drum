@@ -1,0 +1,25 @@
+#profile-confirm h1 {
+  font-size: x-large;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+#profile-confirm #container {
+  max-width: 1000px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+#profile-confirm h3 {
+  font-size: large;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+#root_div div {
+  margin: 10px 0 20px 0;
+}
+
+#profile-confirm .input_content {
+  background-color: lightyellow;
+}

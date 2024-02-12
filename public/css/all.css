@@ -1,0 +1,19 @@
+body{
+  /* font-family: 'Yanone Kaffeesatz', sans-serif; */
+  font-family: 'M PLUS Rounded 1c','メイリオ', Meiryo,YuGothic,'Yu Gothic','ヒラギノ角ゴシック','Hiragino Sans','MS ゴシック' !important;
+  /* font-family: "Hannari"; */
+  /* font-family: "Sawarabi Gothic"; */
+}
+#foot_container{
+  color: white;
+  text-align: center;
+  background-color: #222;
+}
+#foot_container h2{
+  padding:5px 0px 0px 0px;
+  margin: 0;
+}
+#foot_container p{
+  padding: 0px 0px 5px 0px;
+  margin: 0;
+}

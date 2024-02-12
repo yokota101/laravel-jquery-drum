@@ -1,0 +1,66 @@
+#post #container {
+  max-width: 1000px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+#post #root_form {
+  margin: 20px 0 40px 0;
+}
+
+#post #root_form>div {
+  margin: 15px auto;
+}
+
+#post #root_form textarea {
+  width: 100%;
+}
+
+#post .text_field_class {
+  width: 90%;
+}
+
+#post .movie_area {
+  margin: 20px 2%;
+}
+
+#post .caution {
+  color: red;
+}
+
+#post .input_content {
+  background-color: lightyellow;
+}
+
+#post .input_title {
+  margin: 10px 0 0 0;
+}
+
+#post .button_container button {
+  margin-right: 10px;
+}
+
+#post h1 {
+  font-size: x-large;
+}
+
+#post .skeleton {
+  width: 100%;
+  max-width: 640px;
+  aspect-ratio: 16 / 9;
+  background: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url('../images/youtube.png');
+  background-color: rgb(220, 220, 220);
+}
+
+#post .input-field {
+  margin: 10px 0 30px 0;
+}
+
+#post .movie_img {
+  width: 100%;
+  max-width: 640px;
+  aspect-ratio: 16 / 9;
+}
